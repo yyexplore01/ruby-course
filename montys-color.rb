@@ -1,6 +1,6 @@
 # Lesson 3: Prompt for Favorite Color
 
-# puts "What is your favorite color?"
+puts "What is your favorite color?"
 # color = gets.chop
 # puts "Wow! My favorite color is #{color} also!"
 
